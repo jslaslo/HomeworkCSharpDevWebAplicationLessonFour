@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{FFF59DA5-2D76-44CF-B5CC-ACFB356280E4}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LessonFour PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.GraphQLApi FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LessonFour/Securities/JwtConfiguration.cs">
+    <Files>
+      <File FileName="LessonFour/Database/Contexts/AuthorizationContextDesignTimeFactory.cs" Line="12" Column="39" />
+      <File FileName="LessonFour/Abstractions/IAithorizationService.cs" Line="10" Column="78" />
+      <File FileName="Dto/Responses/UserAuthorizationResponse.cs" Line="8" Column="48" />
+      <File FileName="LessonFour/Services/AuthorizationService.cs" Line="8" Column="59" />
+      <File FileName="LessonFour/appsettings.json" Line="1" Column="1" />
+      <File FileName="LessonFour/Properties/launchSettings.json" Line="36" Column="32" />
+      <File FileName="LessonFour/appsettings.Development.json" Line="14" Column="111" />
+      <File FileName="LessonFour/Securities/JwtConfiguration.cs" Line="8" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LessonFour" expanded="True">
+            <Node name="LessonFour" expanded="True">
+              <Node name="Abstractions" expanded="True" />
+              <Node name="Database" expanded="True">
+                <Node name="Contexts" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Securities" expanded="True">
+                <Node name="JwtConfiguration.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

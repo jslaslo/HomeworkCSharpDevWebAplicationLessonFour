@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonFour", "LessonFour\LessonFour.csproj", "{FFF59DA5-2D76-44CF-B5CC-ACFB356280E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dto", "Dto\Dto.csproj", "{F259AA44-7C50-4970-AD54-0B636C6D35E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQLApi", "GraphQLApi\GraphQLApi.csproj", "{98393154-635A-4F5A-AB0F-62770F114EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF59DA5-2D76-44CF-B5CC-ACFB356280E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF59DA5-2D76-44CF-B5CC-ACFB356280E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF59DA5-2D76-44CF-B5CC-ACFB356280E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF59DA5-2D76-44CF-B5CC-ACFB356280E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F259AA44-7C50-4970-AD54-0B636C6D35E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F259AA44-7C50-4970-AD54-0B636C6D35E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F259AA44-7C50-4970-AD54-0B636C6D35E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F259AA44-7C50-4970-AD54-0B636C6D35E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98393154-635A-4F5A-AB0F-62770F114EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98393154-635A-4F5A-AB0F-62770F114EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98393154-635A-4F5A-AB0F-62770F114EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98393154-635A-4F5A-AB0F-62770F114EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ACC1D6F-F108-4EA4-B76A-F662B774AB13}
+	EndGlobalSection
+EndGlobal
